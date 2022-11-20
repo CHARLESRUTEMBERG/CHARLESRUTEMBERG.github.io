@@ -1,0 +1,17 @@
+.meuNome {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .foto {
+    border-radius: 50%;
+  }
+  .cor-data {
+    color: blue;
+  }
+  .cor-local {
+    color: ghostwhite;
+    background-color: rgb(15, 30, 238);
+  }
+  body {
+    
+    background-color: rgb(190, 214, 214);
+  }
